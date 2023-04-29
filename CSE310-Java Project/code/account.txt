@@ -1,0 +1,5 @@
+john 123
+Void 20
+harry 678
+mark 888
+Score for user Void=0
